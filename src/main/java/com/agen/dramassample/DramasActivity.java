@@ -24,7 +24,7 @@ public class DramasActivity extends Activity {
                                            DramasStringHandle.dramas3,DramasStringHandle.dramas4,
                                            DramasStringHandle.dramas5,DramasStringHandle.dramas6};
 
-
+    private String testHitHub ="testHitHub";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
