@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dramasSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="drama_sample">Drama Sample</string>
+</resources>
